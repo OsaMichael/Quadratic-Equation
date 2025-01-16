@@ -1,0 +1,72 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.staticwebassets.endpoints.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\scopedcss\bundle\QuadraticEquationAPI.styles.css
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.QuadraticEquationAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.QuadraticEquationAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.QuadraticEquationAPI.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuadraticEquationAPI.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuadraticEquationAPI.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\Quadrati.59F90EA4.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\refint\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\ref\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.staticwebassets.endpoints.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\QuadraticEquationAPI.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\scopedcss\bundle\QuadraticEquationAPI.styles.css
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.QuadraticEquationAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.QuadraticEquationAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.QuadraticEquationAPI.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuadraticEquationAPI.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuadraticEquationAPI.props
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\Quadrati.59F90EA4.Up2Date
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\refint\QuadraticEquationAPI.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\QuadraticEquationAPI.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\QUADRATIC TASK\QuadraticEquationAPI\QuadraticEquationAPI\obj\Debug\net8.0\ref\QuadraticEquationAPI.dll
