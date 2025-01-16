@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquationAPI", "QuadraticEquationAPI\QuadraticEquationAPI.csproj", "{34C8C77C-8DF5-4D5B-8E0D-63E10A20D301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C8C77C-8DF5-4D5B-8E0D-63E10A20D301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C8C77C-8DF5-4D5B-8E0D-63E10A20D301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C8C77C-8DF5-4D5B-8E0D-63E10A20D301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C8C77C-8DF5-4D5B-8E0D-63E10A20D301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
